@@ -99,7 +99,7 @@ So now and then I can put my plants to 3h (At least in autumm) with sun light an
 
 Thank you to be interested to read my diary and hope you can enjoy reading my book, and the most important you have learned many new knowledge. Also, I change you to do the same as I did, not only with Carnivorous plants but also with other normal plants with beautiful flowers.
 
-Start reading here: <a href="./2024/october/17_oct_2024.md">17 Oct 2024</a>
+Start reading here: <a href="./2024/october/17_oct_2024">17 Oct 2024</a>
 <br>
 <br>
 <br>
