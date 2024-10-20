@@ -11,6 +11,12 @@ The diary starts with date **18th of October of 2024**, but my plants inventory 
 
 ------------------------------------------
 
+## Index
+
+- [2024](./2024/index)
+
+------------------------------------------
+
 ## Prologue
 
 I bought a small Venus fly trap in a shop the 28th of August with aspiration of putting it in a terrarium, but then I realised that it was a very bad, very bad idea. First, I put some fittonias in there with the venus, and the fittonia can burn if I put them in direct sun light, then I find out that the venus was dying and growing small traps with large leaves. So since every professional gardener knows that the venus need a lot of sun light I decided to take it out and started my own plantation of different species and genus of carnivorous plants for one mission, cross pollination, to create my own species for eah genus of plants.
