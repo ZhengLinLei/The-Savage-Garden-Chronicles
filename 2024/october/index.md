@@ -14,3 +14,6 @@
 - [28th](./28_oct_2024)
 - [29th](./29_oct_2024)
 - [30th](./30_oct_2024)
+- [31st](./31_oct_2024)
+
+**Next month**: <a href="../november/index">November</a>
