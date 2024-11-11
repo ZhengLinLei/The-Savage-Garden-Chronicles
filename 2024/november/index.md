@@ -10,3 +10,4 @@
 - 8th (missed)
 - 9th (missed)
 - [10th](./10_nov_2024)
+- [11th](./11_nov_2024)
