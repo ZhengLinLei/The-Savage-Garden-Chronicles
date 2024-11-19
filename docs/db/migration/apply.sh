@@ -2,7 +2,7 @@
 
 # Apply all migrations
 SQLITE=sqlite3
-DB=../inventory.sqlite
+DB=../inventory.db
 
 SPECIES="dionaea drosera nepenthes sarracenia"
 
