@@ -23,3 +23,5 @@
 - [21th](./21_nov_2024)
 - [22th](./22_nov_2024)
 - [23th](./23_nov_2024)
+
+**Next month**: <a href="../december/index">December</a>
