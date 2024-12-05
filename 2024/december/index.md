@@ -4,6 +4,7 @@
 - [2nd](./2_dec_2024)
 - [3rd](./3_dec_2024)
 - [4th](./4_dec_2024)
+- [5th](./5_dec_2024)
 
 **Previous month**: <a href="../november/index">November</a>
 **Next month**: <a href="../november/index">January 2025</a>
