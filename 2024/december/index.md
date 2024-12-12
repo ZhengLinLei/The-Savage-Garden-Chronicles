@@ -11,6 +11,7 @@
 - [9th](./9_dec_2024)
 - [10th](./10_dec_2024)
 - [11th](./11_dec_2024)
+- [12th](./12_dec_2024)
 
 
 **Previous month**: <a href="../november/index">November</a>
