@@ -12,6 +12,8 @@
 - [10th](./10_dec_2024)
 - [11th](./11_dec_2024)
 - [12th](./12_dec_2024)
+- 13th (Missed)
+- [14th](./14_dec_2024)
 
 
 **Previous month**: <a href="../november/index">November</a>
